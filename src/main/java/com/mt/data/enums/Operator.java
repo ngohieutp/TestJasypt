@@ -1,0 +1,5 @@
+package com.mt.data.enums;
+
+public enum Operator {
+    DEFAULT, EQ, NE, GT, GTE, LT, LTE, IN, NIN, LIKE, LIKE_START_WITH, LIKE_CONTAIN_LOWERCASE, LIKE_IGNORE_LOWERCASE, INSUBQUERY, NOTNULL, NULL
+}
